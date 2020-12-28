@@ -797,14 +797,14 @@ img#incampus-logo {
 
 /* ======= facts ======= */
 
+.imgRandFact {
+    width: 380px;
+    padding: 15% 10%;
+}
+
 #fact-content{
     padding-top: 120px;
     padding-bottom: px;
-}
-
-#facts img {
-    width: 350px;
-    height: auto;
 }
 
 #facts p {
