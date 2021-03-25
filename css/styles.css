@@ -764,6 +764,33 @@ img#incampus-logo {
     margin: 0 auto 10px;
 }
 
+img#mobilenyou-logo{
+    height: auto;
+    display: block;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out
+}
+
+img#mobilenyou-logo {
+    width: 300px;
+    padding-left: 12px;
+    margin: 50px auto 20px;
+}
+
+img#xash-logo{
+    height: auto;
+    display: block;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out
+}
+
+img#xash-logo {
+    width: 80px;
+    margin: 50px auto 10px;
+}
+
 @media screen and (max-width: 768px) {
     .skills-bar-container {
         width: 100%;
